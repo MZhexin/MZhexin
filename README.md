@@ -5,8 +5,10 @@
 - 📫 Reach me: <tianyh@emails.bjut.edu.cn> 
 - :heart: I want to make more friends and learning something new here.
 
-
 You are my ![Visitor Count](https://profile-counter.glitch.me/MZhexin/count.svg) visitor, Thank you!
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
  ![](https://github-readme-stats.vercel.app/api?username=MZhexin&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MZhexin&layout=compact&theme=tokyonight) 

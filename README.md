@@ -2,9 +2,8 @@
 
 - 💬 My major is **Artificial Intelligence**.
 - 🔭 I’m currently working on **AI technology** and **computational neuroscience**.
-- :heart: Read more about my Zhihu: ![折心](https://www.zhihu.com/people/hong-hu-sao-ge)
-- :phone: Reach me: <tianyh@emails.bjut.edu.cn> 
-- 📫 I want to make more friends and learning something new here.
+- 📫 Reach me: <tianyh@emails.bjut.edu.cn> 
+- :heart: I want to make more friends and learning something new here.
 
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/MZhexin/count.svg) visitor, Thank you!

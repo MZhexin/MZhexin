@@ -14,13 +14,15 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/MZhexin/count.svg)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-482-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 117 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,10 +57,9 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 11 mins       ███████████████████░░░░░░   77.25 % 
-Jupyter                  2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+Python                   10 hrs 16 mins      ████████████████████████░   96.77 % 
+Jupyter                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
@@ -66,13 +67,13 @@ PyCharm                  10 hrs 13 mins      ███████████�
 VS Code                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 🐱‍💻 Projects: 
-Artificial Intelligence  7 hrs 40 mins       ██████████████████░░░░░░░   72.39 % 
-EIBN_MER                 2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+Artificial Intelligence  7 hrs 41 mins       ██████████████████░░░░░░░   72.40 % 
+EIBN_MER                 2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
 31505                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  10 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -92,7 +93,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MZhexin/MZhexin/main/assets/bar_graph.png)
 
 
- Last Updated on 26/11/2023 18:37:02 UTC
+ Last Updated on 27/11/2023 18:37:12 UTC
 <!--END_SECTION:waka-->
 
 

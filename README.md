@@ -17,8 +17,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/MZhexin/count.svg)
 ![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2049%20mins-blue)  ![Profile Views](http://img.shields.io/badge/Profile%20Views-482-blue)
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 Python                   10 hrs 16 mins      ████████████████████████░   96.77 % 
 Jupyter                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 

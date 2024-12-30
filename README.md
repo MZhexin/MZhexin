@@ -14,6 +14,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/MZhexin/count.svg)
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%202%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -28,7 +30,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/12/2024 08:14:47 UTC
+ Last Updated on 30/12/2024 08:15:06 UTC
 <!--END_SECTION:waka-->
 
 

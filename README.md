@@ -14,23 +14,28 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/MZhexin/count.svg)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2040%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     1 hr 38 mins        █████████████████░░░░░░░░   66.75 % 
+Python                   31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+GitIgnore file           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 45 mins        ██████████████████░░░░░░░   71.24 % 
+PyCharm                  42 mins             ███████░░░░░░░░░░░░░░░░░░   28.76 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/01/2025 16:08:45 UTC
+ Last Updated on 16/01/2025 16:08:38 UTC
 <!--END_SECTION:waka-->
 
 

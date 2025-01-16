@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm MZhexin!
 
 - 💬 My major is **Artificial Intelligence**.
-- 🔭 I’m currently working on **AI technology**, **affective computing** and **computational neuroscience**.
+- 🔭 I’m currently working on **AI technology**, **affective computing** , **AIGC** and **AGI**.
 - 📫 Reach me: <tianyh@emails.bjut.edu.cn> or <3150545659@qq.com>
 - :heart: I want to make more friends and learn something new here.
 

@@ -2,7 +2,7 @@
 
 - 💬 My major is **Artificial Intelligence**.
 - 🔭 I’m currently working on **AI technology**, **affective computing** , **AIGC** and **AGI**.
-- 📫 Reach me: <tianyh@emails.bjut.edu.cn> or <3150545659@qq.com>
+- 📫 Reach me: <yhtian3@163.com>
 - :heart: I want to make more friends and learn something new here.
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/MZhexin/count.svg) visitor, Thank you!

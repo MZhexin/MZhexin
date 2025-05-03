@@ -14,8 +14,26 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/MZhexin/count.svg)
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2014%20mins-blue)
 
- Last Updated on 02/05/2025 16:10:07 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   5 hrs 6 mins        ████████████████████████░   95.55 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 14 mins       ████████████████████░░░░░   79.44 % 
+PyCharm                  1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+
+💻 Operating System: 
+Windows                  5 hrs 20 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 03/05/2025 16:08:43 UTC
 <!--END_SECTION:waka-->
 
 

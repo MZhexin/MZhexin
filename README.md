@@ -1,4 +1,4 @@
-### Hi there 👋 I'm MZhexin!
+### Ciallo～(∠・ω< )⌒☆ 👋 I'm MZhexin!
 
 - 💬 My major is **Artificial Intelligence**.
 - 🔭 I’m currently working on **AI technology**, **affective computing** , **AIGC** and **AGI**.

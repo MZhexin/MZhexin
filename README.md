@@ -20,18 +20,17 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/MZhexin/count.svg)
 
 ```text
 💬 Programming Languages: 
-Python                   24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  23 mins             ████████████████████████░   94.10 % 
-VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 26/05/2025 16:10:14 UTC
+ Last Updated on 27/05/2025 16:11:11 UTC
 <!--END_SECTION:waka-->
 
 

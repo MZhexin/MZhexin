@@ -14,23 +14,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/MZhexin/count.svg)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%203%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C                        22 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 29/08/2025 16:10:04 UTC
+ Last Updated on 30/08/2025 16:08:30 UTC
 <!--END_SECTION:waka-->
 
 

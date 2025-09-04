@@ -20,17 +20,17 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/MZhexin/count.svg)
 
 ```text
 💬 Programming Languages: 
-C                        22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 03/09/2025 16:09:56 UTC
+ Last Updated on 04/09/2025 16:10:15 UTC
 <!--END_SECTION:waka-->
 
 

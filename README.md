@@ -1,7 +1,7 @@
 ### Ciallo～(∠・ω< )⌒☆ 👋 I'm MZhexin!
 
 - 💬 My major is **Artificial Intelligence**.
-- 🔭 I’m currently working on **AI technology**, **affective computing** , **AIGC** and **AGI**.
+- 🔭 I’m currently working on **AI technology** and **affective computing**.
 - 📫 Reach me: <yhtian3@163.com>
 - :heart: I want to make more friends and learn something new here.
 

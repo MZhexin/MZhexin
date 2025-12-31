@@ -18,17 +18,17 @@
 
 ```text
 💬 Programming Languages: 
-Text                     3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/12/2025 16:12:29 UTC
+ Last Updated on 31/12/2025 16:11:57 UTC
 <!--END_SECTION:waka-->
 
 

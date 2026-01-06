@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2023%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -32,7 +32,7 @@ Windows                  1 hr 4 mins         ███████████�
 ```
 
 
- Last Updated on 05/01/2026 16:13:28 UTC
+ Last Updated on 06/01/2026 16:12:38 UTC
 <!--END_SECTION:waka-->
 
 

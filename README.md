@@ -18,19 +18,18 @@
 
 ```text
 💬 Programming Languages: 
-Jupyter                  2 mins              ████████████████████████░   97.73 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Jupyter                  0 secs              ██████████████████████░░░   87.86 % 
+Markdown                 0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
 
 🔥 Editors: 
-PyCharm                  2 mins              █████████████████████████   100.00 % 
+PyCharm                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/03/2026 16:24:02 UTC
+ Last Updated on 14/03/2026 16:16:13 UTC
 <!--END_SECTION:waka-->
 
 

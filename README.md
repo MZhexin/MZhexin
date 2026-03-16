@@ -18,18 +18,17 @@
 
 ```text
 💬 Programming Languages: 
-Jupyter                  0 secs              ██████████████████████░░░   87.86 % 
-Markdown                 0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/03/2026 16:17:29 UTC
+ Last Updated on 16/03/2026 16:48:09 UTC
 <!--END_SECTION:waka-->
 
 
